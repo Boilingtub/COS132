@@ -1,0 +1,11 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "Calculate.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_4/Student_Files/Task 1",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_4/Student_Files/Task 1/Calculate.cpp"
+  }
+]
