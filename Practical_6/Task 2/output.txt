@@ -1,0 +1,73 @@
+1
+2
+3
+5
+8
+13
+21
+34
+55
+89
+144
+233
+377
+610
+987
+1597
+2584
+4181
+6765
+10946
+17711
+28657
+Cracked Level A...
+1
+2
+3
+5
+8
+13
+21
+34
+55
+89
+144
+233
+377
+610
+987
+1597
+2584
+4181
+6765
+10946
+17711
+Cracked Level B... Firewall cracked
+GCD of 22 and 21 is: 1
+Plain text password found
+Accessing CBC Mainframe...
+Highest factorial without overflow is: 12! = 4.79002e+08
+Verifying database path...Incorrect index
+2 is a prime number.
+3 is a prime number.
+Verifying database path...Incorrect index
+5 is a prime number.
+Verifying database path...Incorrect index
+7 is a prime number.
+Verifying database path...Incorrect index
+Verifying database path...Incorrect index
+Verifying database path...Incorrect index
+11 is a prime number.
+Verifying database path...C://home//CEO_Code//DB
+Directory search result: 80
+Injecting corruption packet 0
+Scrambling database entry 1
+Overloading data line 2
+Injecting corruption packet 3
+Scrambling database entry 4
+Overloading data line 5
+Injecting corruption packet 6
+Scrambling database entry 7
+Overloading data line 8
+Injecting corruption packet 9
+Database corruption complete. Data integrity compromised.

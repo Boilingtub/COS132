@@ -1,0 +1,22 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "testIf.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 1",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 1/testIf.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "testSwitch.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 1",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 1/testSwitch.cpp"
+  }
+]

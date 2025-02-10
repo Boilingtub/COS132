@@ -1,0 +1,42 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "DatabaseCorruption.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 2/DatabaseCorruption.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "DatabaseSearch.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 2/DatabaseSearch.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "NetworkInfiltration.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 2/NetworkInfiltration.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "Main.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_6/Task 2/Main.cpp"
+  }
+]
