@@ -1,0 +1,41 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_8/Task 2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_8/Task 2/main.cpp",
+    "output": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_8/Task 2/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-o",
+      "main",
+      "BombDefusing.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_8/Task 2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_8/Task 2/BombDefusing.cpp",
+    "output": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_8/Task 2/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-o",
+      "main",
+      "RoomLocater.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_8/Task 2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_8/Task 2/RoomLocater.cpp",
+    "output": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_8/Task 2/main"
+  }
+]

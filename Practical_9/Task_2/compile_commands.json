@@ -1,0 +1,29 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "MessageDecoder.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_2/MessageDecoder.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "PoisonDilute.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_2/PoisonDilute.cpp"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "TreasureMap.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_2",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_2/TreasureMap.cpp"
+  }
+]

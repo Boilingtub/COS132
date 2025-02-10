@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-o",
+      "Task1",
+      "Task1.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_1",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_1/Task1.cpp",
+    "output": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_1/Task1"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-o",
+      "Task1",
+      "TuringMachine.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_1",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_1/TuringMachine.cpp",
+    "output": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_9/Task_1/Task1"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-g",
+      "-o",
+      "main",
+      "BinaryTree.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_Bonus",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_Bonus/BinaryTree.cpp",
+    "output": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_Bonus/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-g",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_Bonus",
+    "file": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_Bonus/main.cpp",
+    "output": "/home/hendrik/Documents/TUKS/Semester_1/COS132/Practicals/Practical_Bonus/main"
+  }
+]
