@@ -1,0 +1,50 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-Wall",
+      "-Werror",
+      "-g",
+      "-o",
+      "main",
+      "Assessment.cpp"
+    ],
+    "directory": "/home/hendrik/Coding/COS132_Prac_10",
+    "file": "/home/hendrik/Coding/COS132_Prac_10/Assessment.cpp",
+    "output": "/home/hendrik/Coding/COS132_Prac_10/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-Wall",
+      "-Werror",
+      "-g",
+      "-o",
+      "main",
+      "StudentDetails.cpp"
+    ],
+    "directory": "/home/hendrik/Coding/COS132_Prac_10",
+    "file": "/home/hendrik/Coding/COS132_Prac_10/StudentDetails.cpp",
+    "output": "/home/hendrik/Coding/COS132_Prac_10/main"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++98",
+      "-Wall",
+      "-Werror",
+      "-g",
+      "-o",
+      "main",
+      "main.cpp"
+    ],
+    "directory": "/home/hendrik/Coding/COS132_Prac_10",
+    "file": "/home/hendrik/Coding/COS132_Prac_10/main.cpp",
+    "output": "/home/hendrik/Coding/COS132_Prac_10/main"
+  }
+]
